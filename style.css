@@ -1,1 +1,64 @@
+.fork{
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+
+.begin{
+    display: flow-root;
+}
+
+h2{
+    font-family: alex-brush;
+}
+
+nav{
+    display: flow-root;
+    float: right;
+}
+
+.print{
+    display: flow-root;
+    float: right;
+}
+
+.logo{
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+ul{
+    column-count: 2;
+    margin-top: 50px;
+}
+
+button{
+    float: right;
+    size: 200%;
+}
+
+.vanessa{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-top: 30px;
+}
+
+.bottom{
+    margin-top: 50px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
 
